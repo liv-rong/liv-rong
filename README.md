@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<img alt="prisma" src="https://img.shields.io/badge/-prisma-283233?logo=prisma
+<img alt="prisma" src="https://img.shields.io/badge/-prisma-283233?logo=prisma&style=flat-square
 "/>
 </p>
 
