@@ -34,6 +34,8 @@
 <img src="https://github-readme-stats.versel.app/top-langs?usename=ivy-rong&layout=compact&lang_count=6&text_color=000&icon_color=fff&theme=garywhite" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
+
 <span> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   
