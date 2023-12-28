@@ -30,3 +30,11 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
+
+<span >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivy-rong" />
+</span>
+
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivy-rong&layout=compact&langs_count=8&card_width=320" />
+</span>
