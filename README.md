@@ -36,6 +36,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
+
 <span> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   
