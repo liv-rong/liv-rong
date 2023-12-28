@@ -15,21 +15,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<img alt="prisma" src="https://img.shields.io/badge/-prisma-283233?logo=prisma&style=flat-square
-"/>
 </p>
-
-<div align="center">
-<img src="https://github-readme-stats.versel.app/api?usename=ivy-rong&show_icons=true&theme=cobalt" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.versel.app/top-langs?usename=ivy-rong&layout=compact&lang_count=6&text_color=000&icon_color=fff&theme=garywhite" />
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivy-rong)](https://github.com/anuraghazra/github-readme-stats)
 
 <span >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivy-rong" />
