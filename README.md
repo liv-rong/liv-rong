@@ -27,6 +27,13 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivy-rong&layout=compact&langs_count=8&card_width=320" />
 </span>
 
+ <a href="https://git.io/streak-stats">
+            <img
+              alt="GitHub Streak"
+              src="https://github-readme-streak-stats.herokuapp.com?user=ivy-rong&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B"
+            />
+ </a>
+
 
 
 ##  Tech Stack
