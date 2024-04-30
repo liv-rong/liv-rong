@@ -24,3 +24,9 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivy-rong&layout=compact&langs_count=8&card_width=320" />
 </span>
+
+<span>
+  <img height=200 align="center"   src="https://skillicons.dev/icons?i=js,html,css,d3,docker,express,git,mysql,nestjs,nextjs,nodejs,nuxtjs,pinia,postgres,react,sass,supabase,tailwind,ts,vite,vue"
+           />
+</span>
+
