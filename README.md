@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
  <a href="https://git.io/streak-stats">
             <img
               alt="GitHub Streak"
-              src="https://github-readme-streak-stats.herokuapp.com?user=ivy-rong&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B"
+              src="https://github-readme-streak-stats.herokuapp.com?user=ivy-rong"
             />
  </a>
 
