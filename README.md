@@ -26,6 +26,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivy-rong&layout=compact&langs_count=8&card_width=320" />
 </span>
+<div >
 
  <a href="https://git.io/streak-stats">
             <img
@@ -33,6 +34,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
               src="https://github-readme-streak-stats.herokuapp.com?user=ivy-rong"
             />
  </a>
+ </div>
 
 
 
