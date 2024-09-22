@@ -20,18 +20,18 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 </p>
 
 <span >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ruby-rong" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liv-rong" />
 </span>
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruby-rong&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liv-rong&layout=compact&langs_count=8&card_width=320" />
 </span>
 <div >
 
  <a href="https://git.io/streak-stats">
             <img
               alt="GitHub Streak"
-              src="https://github-readme-streak-stats.herokuapp.com?user=ruby-rong"
+              src="https://github-readme-streak-stats.herokuapp.com?user=liv-rong"
             />
  </a>
  </div>
