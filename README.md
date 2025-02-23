@@ -4,19 +4,7 @@
   </a>
 </div>
 
-##  Web Developer
 
-
-## About me
-
-
-
-## Open source projects
-
-- admin
-- my-cv
-- chat-room
-- clone-figmer 
 
 
 <p>
