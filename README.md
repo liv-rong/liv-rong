@@ -6,7 +6,7 @@
 
 
 ## Open source project
--  <a href="[https://blog.ivyrong.xyz/](https://github.com/liv-rong/my-cv)">my-cv</a>: using Markdown to write a resume
+-  [my-cv](https://github.com/liv-rong/my-cv): using Markdown to write a resume
 
 
 <p>
