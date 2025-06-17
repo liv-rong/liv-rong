@@ -37,7 +37,7 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
  </a>
  </div>
 
-### My dream: have a house.
+- My dream: have a house.
 
 
 ##  Tech Stack
