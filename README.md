@@ -44,6 +44,9 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 </picture>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=liv-rong&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
 ##  Tech Stack
