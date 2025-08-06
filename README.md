@@ -46,7 +46,10 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liv-rong&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liv-rong&show_icons=true)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liv-rong)
 
 
 ##  Tech Stack
