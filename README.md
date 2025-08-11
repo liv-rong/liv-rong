@@ -37,15 +37,6 @@ src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tai
  </a>
  </div>
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="GitHub Snake Game" src="github-snake.svg" />
-</picture>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=liv-rong&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 
 
 
